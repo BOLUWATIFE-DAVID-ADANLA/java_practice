@@ -30,6 +30,18 @@ public class java_practice {
 
 // System.out.println(i);
 
+// int arr []  = new int [4];
+
+//  arr[0] = 4;
+//  arr[1] = 3;
+//  arr[2] = 2;
+//  arr[3] = 6;
+
+
+//  for(int num: arr){
+//     System.out.println(num);
+
+//  }
 
 
     }
