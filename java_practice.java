@@ -52,6 +52,16 @@ class Human {
    public int age ;
    public String name;
 
+   public Human(){
+    this.age = 20;
+    this.name = "hello";
+   }
+
+   public Human(int Age , String Name){
+    age = Age ;
+    name = Name ;
+   }
+
    public void  setAge(String a){
        this.name = a;
    }
