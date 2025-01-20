@@ -47,3 +47,16 @@ public class java_practice {
     }
     
 }
+
+class Human {
+   public int age ;
+   public String name;
+
+   public void  setAge(String a){
+       this.name = a;
+   }
+
+   public String getName(String a){
+    return name;
+   }
+}
