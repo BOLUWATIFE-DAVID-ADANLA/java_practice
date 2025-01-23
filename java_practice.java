@@ -86,4 +86,7 @@ class Human {
 
 // i jus t need them to add to my heat map 
 
+
+// i jus t need them to add to my heat map 
+
 }
